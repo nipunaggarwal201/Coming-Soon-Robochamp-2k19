@@ -1,14 +1,13 @@
 *{
     margin:0;padding:0;
 }
+
 body{
     background-image: url(image/back.jpg);
     
 }
 #particles-js{
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+    
     background-size: cover;
     background-position: center;
    
@@ -16,8 +15,7 @@ body{
 
 }
 .welcome{
-    margin-left: 19%;
-    margin-right: 19%;
+    
     position:absolute;
     color: #fff;
     font-family: sans-serif;
