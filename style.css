@@ -2,12 +2,29 @@
     margin:0;padding:0;
 }
 body{
-    background-color: grey;
+    
 }
 #particles-js{
 
     background-image: url(image/back.jpg);
+    height: 120vh;
     background-size: cover;
+    background-position: center;
+   
+
+
+}
+.welcome{
+    margin-left: 19%;
+    margin-right: 19%;
+    position:absolute;
+    color: #fff;
+    font-family: sans-serif;
+    
+
+}
+.logo{
+    
 
 }
 p{
